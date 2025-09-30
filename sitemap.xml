@@ -9,7 +9,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- About / Services Page (if you have sections) -->
+  <!-- Add more pages if your site has sections -->
   <url>
     <loc>https://sites.google.com/view/rkpaintingservices/about</loc>
     <lastmod>2025-09-30</lastmod>
